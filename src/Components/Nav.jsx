@@ -65,7 +65,7 @@ const Nav = ({ darkMode, setDarkMode }) => {
         </div>
         <div className='social-container'>
           <a
-            href='https://www.instagram.com/credit_elite'
+            href='https://www.instagram.com/redline_imports_ceo/'
             className='IG-link-nav'
             target='_blank'
             rel='noopener noreferrer'
